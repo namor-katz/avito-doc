@@ -10,6 +10,7 @@ Welcome to avito-doc's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   workflow
 
 
 Indices and tables
@@ -18,4 +19,5 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
 первое правило клуба: бери из ветки dev, вливай в неё же.

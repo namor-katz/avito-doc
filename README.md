@@ -13,7 +13,7 @@ How to use?
 
 5. make html
 
-6. my_browser build index.html
+6. my_browser build/html/index.html
 
 
 reStructuredText syntax (russian)

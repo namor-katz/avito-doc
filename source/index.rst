@@ -11,7 +11,7 @@ Welcome to avito-doc's documentation!
    :caption: Contents:
 
    workflow
-
+   faq
 
 Indices and tables
 ==================

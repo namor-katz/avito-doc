@@ -10,6 +10,7 @@ Long.
 
 **Как создать нового пользователя, используя restapi?**
 
-curl -X POST -v -d '{"login": "vasja@mail.ru", "password":"12347"}' -H "Content-Type: application/json" http://localhost:5556/rest/admin/add
+curl -X POST -v -d \'{\"login\": \"vasja@mail.ru\", \"password\":\"12347\"}\' -H \"Content-Type: application/json\" http://localhost:5556/rest/admin/add
+
 
 **Структура api**

@@ -11,7 +11,9 @@ How to use?
 
 4. python -m pip install -r requirments.txt OR use virtualenv.
 
-4.1? from Windows:  install make tools https://sourceforge.net/projects/gnuwin32/files/make/3.81/make-3.81.exe/download  - download, run, install
+4.1 from Windows:  install make tools https://sourceforge.net/projects/gnuwin32/files/make/3.81/make-3.81.exe/download  - download, run, install
+
+4.2  add make.exe into %PATH% variable ( in default install on 64bit machine you'll need to add C:\Program Files (x86)\GnuWin32\bin folder to %PATH% )
 
 6. make html
 

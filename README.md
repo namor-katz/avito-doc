@@ -11,7 +11,9 @@ How to use?
 
 4. python -m pip install -r requirments.txt OR use virtualenv.
 
-5. make html
+4.1? from Windows:  install make tools https://sourceforge.net/projects/gnuwin32/files/make/3.81/make-3.81.exe/download  - download, run, install
+
+6. make html
 
 6. my_browser build/html/index.html
 

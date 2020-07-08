@@ -13,7 +13,7 @@ How to use?
 
 	* from Windows:  install make tools https://sourceforge.net/projects/gnuwin32/files/make/3.81/make-3.81.exe/download  - download, run, install
 
-4.2  from **Windows** add make.exe into %PATH% variable ( in default install on 64bit machine you'll need to add C:\Program Files (x86)\GnuWin32\bin folder to %PATH% )
+	* from **Windows** add make.exe into %PATH% variable ( in default install on 64bit machine you'll need to add C:\Program Files (x86)\GnuWin32\bin folder to %PATH% )
 
 5. run make html in repo_directory
 

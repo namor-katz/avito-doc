@@ -1,6 +1,6 @@
 Рабочий процесс
 ====================
-#. основной рабочий репозиторий находится по адресу https://github.com/Sidorenkomv/avito.git
+#. основной рабочий репозиторий находится по адресу https://github.com/Sidorenkomv/board-of-ads
 
 #. основной рабочей веткой является dev_new. создание новой рабочей ветки (git checkout -b my_branch) происходит из неё, в неё же делается Merge Request.
 

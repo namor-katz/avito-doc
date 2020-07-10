@@ -12,6 +12,8 @@ Welcome to avito-doc's documentation!
 
    workflow
    faq
+   validation
+   data_initializer
 
 Indices and tables
 ==================
